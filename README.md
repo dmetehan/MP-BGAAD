@@ -1,2 +1,5 @@
 # MP-BGAAD
-Multi-Person Board Game Affect Analysis Dataset will be made publicly available in few months.
+Multi-Person Board Game Affect Analysis Dataset
+
+# Update:
+Dataset name has changed to MUMBAI: https://github.com/dmetehan/MUMBAI
